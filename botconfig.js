@@ -19,9 +19,9 @@ module.exports = {
   //Lavalink
    Lavalink: {
     id: "Main",
-    host: "(host name or IP)",
-    port: (port),
-    pass: "(password)", 
+    host: "lavalink.oops.wtf",
+    port: 2000,
+    pass: "www.freelavalink.ga", 
     secure: false, // Set this to true if you're self-hosting lavalink on replit.
   },
 
